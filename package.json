@@ -2,7 +2,8 @@
   "name": "mess",
   "displayName": "mess",
   "description": "mess color theme",
-  "version": "0.0.1",
+  "publisher": "37108",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.45.0"
   },
