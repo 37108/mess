@@ -3,6 +3,7 @@
   "displayName": "mess",
   "description": "mess color theme",
   "publisher": "37108",
+  "repository": "https://github.com/37108/mess.git",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.45.0"
